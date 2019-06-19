@@ -10,7 +10,6 @@ function App() {
         <p>
           eNe One - GIT
         </p>
-        <div>
       </header>
     </div>
   );
